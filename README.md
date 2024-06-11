@@ -2,9 +2,8 @@
 
 
 <div align="center">
-<img src="![image](https://github.com/vondeastra/Struktur-data-23343076-Deviin/assets/144184599/48f42191-a3b9-4137-9066-169effcda87d)
-" align="center" height="" width="400" />
-</div> 
+<img src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif" align="center" height="" width="400" />
+</div>  
 
 
 ### <div align="center">I am Muhammad Devin Rahadi, a student majoring in Informatics at Padang State University</div>  
