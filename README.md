@@ -1,4 +1,4 @@
-<p align="center"><h3>Struktur-data-23343076-Muhammad Devin Rahadi</h3></p>
+<h6 align="center">Struktur-data-23343076-Muhammad Devin Rahadi</h6>
 
 
 <div align="center">
