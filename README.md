@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif" align="center" height="" width="400" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcomputador-gu-tecnology-bGgsc5mWoryfgKBx1u&psig=AOvVaw3s1JshCUKpIBoV11ezUYWV&ust=1718155978278000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjHk-2z0oYDFQAAAAAdAAAAABAE" align="center" height="" width="400" />
 </div>  
   
 
