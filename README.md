@@ -1,10 +1,9 @@
 # Struktur-data-23343076-Deviin
 
 
-<div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcomputador-gu-tecnology-bGgsc5mWoryfgKBx1u&psig=AOvVaw3s1JshCUKpIBoV11ezUYWV&ust=1718155978278000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjHk-2z0oYDFQAAAAAdAAAAABAE" align="center" height="" width="400" />
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 </div>  
-  
+
 
 ### <div align="center">I am Muhammad Devin Rahadi, a student majoring in Informatics at Padang State University</div>  
   
