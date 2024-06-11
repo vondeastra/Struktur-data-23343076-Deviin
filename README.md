@@ -83,76 +83,50 @@
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vondeastra&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<br/>   
 
 
 ## Recent Blog Posts  
 
 
-### Practical learning of Programming Algorithms  
-<h2>- JOBSHEET 1 ALGORITMA PEMOGRAMAN</h2>
-
- Pada JOBSHEET 1, saya diperkenalkan berupa algoritma pemograman. Algoritma pemograman terdiri dari dua kata berupa 'Algoritma' dan 'Pemograman' Algoritma merupakan langkah-langkah yang disusun secara sistematis dan logis untuk menyelesaikan suatu masalah, sedangkan pemograman adalah tindakan atau aktivitas penulisan, menguji, memperbaiki, dan memelihara kode yang dipahami oleh komputer. Pemrograman adalah suatu seni dalam menggunakan satu atau lebih algoritme yang saling berhubungan dengan menggunakan suatu bahasa pemrograman tertentu sehingga menjadi suatu program komputer.
-
-Lalu kita dikenalkan oleh coding, coding merupakan Coding merupakan sebuah aktivitas atau proses untuk menuliskan kode yang harus sesuai dengan aturan penulisan (syntax) tertentu. Lalu ada progamming yang merupakan proses merancang dan membangun program komputer untuk mencapai hasil tertentu. progam tak dapat dibuat tanpa bahasa pemograman, bahasa pemograman memiliki bahasa yang berbeda dengan manusia, kita bisa sebut sebagai bahasa mesin, maka kita perlu paham tiap bahasa pemograman yang akan kita gunakan. Sama halnya saat kita bercerita dengan orang lain maka perlu bahasa yang dapat dimengerti oleh kedua pihak yang saling berkomunikasi. Setiap jenis bahasa pemrograman memiliki aturan penulisan dan sintaks tersendiri. 
-
-Dalam pembelajaran semester 1 ini maka dipelajari satu bahasa pemograman berupa bahasa C. Bahasa C memang bagus untuk memperkenalkan konsep pemrograman bagi pemula yang belum pernah coding. Usia bahasa pemrograman C memang cukup tua, namun masih digunakan hingga saat ini.Bahasa C banyak menginspirasi bahasa-bahasa pemrograman yang lain seperti Java, Javascript, C++, C#, PHP, dsb. Bahasa-bahasa tersebut memiliki sintaks yang hampir sama dengan bahasa C. Bahkan C sampai dijuluki “God’s programming language”. Jadi dengan memahami bahasa C, akan mudah memahami bahasa-bahasa yang lainnya. untuk melaksanakan pemograman kita memerlukan software untuk menjalankan progam bahasa tersebut yang dikenal dengan IDE(Integrated Development Environment).IDE memiliki banyak fitur yang mendukung proses pemrograman. Contohnya adalah DevC++, Microsoft Visual Studio, CodeBlocks, NetBeans, Eclips, dll
-  
-<h2>- JOBSHEET 2</h2>
-
- Pada JOBSHEET 2, saya mempelajari tentang pemrograman C. dalam bahasa C, kita memiliki beberapa bagian yang diperlukan dalam membuat progam dengan menggunakan bahasa C, diantaranya :
- 
-<h4>A. Sintaks</h4> 
- Dalam setiap bahasa pemrograman memiliki sintaks tersendiri yang dapat diartikan sebagai aturan penulisan kode pada bahasa pemrograman tersebut. pada progam C sintaks terdiri dari header dibaris awal berguna untuk memanggil dan mengimpor fungsi fungsi yang sudah didefinisikan dalam header, pendefinisian menggunakan #include.
- 
- b. Main fuction
- lalu ada main fuction yang merupakan fungsi utama yang akan dijallankan pertama kali oleh progam, isi dari fungsi ini diawali dan diakhiri dengan tanda kurung kurawal "{}", didalam sini lah progam atau "statement"
- 
- c. statement dan semicolons
- didalam main fuction memiliki statement. statement yaitu perintah perintah yang ada didalam fungsi untuk melakukan sesuatu, contohnya statement printf untuk mencetak apa yang kita kirim, selain itu statement harus diakhiri dengan semicolons agar menandakan statement tersebut telah berakhir.
- 
-  d. identifier
-  sebuah nama yang digunakan untuk mengidentifikasi variabel, fungsi, atau semua item yang didefinisikan oleh progammer. dalam penulisannya perlu diperhatikan karena bahasa C merupakan bahasa case sensitive dimana besar kecil tulisan, adanya angka ataupun tidak, sangat berpengaruh dan berbeda maknanya.
-  
-  e. whitespace
-  digunakan untuk mendeskripsikan blank, atab,, spas, barisbaru dan dapat juga berupa komentar. biasanya digunakan untuk memisahkan bagian dari sebuah statement yang memungkinkan kompiler mengidentifikasikan elemen yang satu dengan lainnya dalam sebuah statement.
-
-  dalam bahasa C kita melakukan proses input dan output. jalannya progam terdiri dari 3 bagian yaitu input, proses, dan output.Input merupakan sesuatu data yang kita masukan ke dalamn progam. proses merupakan langkah ;angkah yang harus dilakukan progam untuk menghasilksan output. lalu terkhir output, informasi yang dihasilkan setelah dilakaukan proses, akan ditampilkan ke layar komputer. untuk menampillkan output ada dua fungsi yang digunakan yaitu 
-fungsi printf() -> menampilkan output kelayar komputer, penulisannya :
-printf("output yang ingin ditampilkan");
-dalam penulisannya, kitaa memerlukan penggunaan simbol seperti %s, %c dan lain lain untuk format teks.
-lalu ada fungsi puts() -> digunakan untuk menapilkan output tanpa memerlukan format
-- JOBSHEET 3  
-  
-
-- JOBSHEET 4  
-  
-
-- JOBSHEET 5  
-  
-
-- JOBSHEET 6  
-  
-
-- JOBSHEET 7
+### Data Structure Learning 
+<h2>- JOBSHEET 1 PENGENALAN STRUKTUR DATA</h2>
 
   
-- JOBSHEET 8
+<h2>- JOBSHEET 2 ARRAY, POINTER STRUKTUR</h2>
+
+
+<h2>- JOBSHEET 3 SINGLE LINKED LIST</h2>  
+  
+
+<h2>- JOBSHEET 4 DOUBLY LINKED LIST</h2>  
+  
+
+<h2>- JOBSHEET 5 DOUBLE AND CIRCULAR LINKED LIST</h2>  
+  
+
+<h2>- JOBSHEET 6 STACK</h2>  
+  
+
+<h2>- JOBSHEET 7 QUEUE</h2>
 
   
-- JOBSHEET 9
+<h2>- JOBSHEET 8 BUBBLE AND INSERTION SORT</h2>
 
   
-- JOBSHEET 10
+<h2>- JOBSHEET 9 SELECTION AND MERGE SORT</h2>
 
   
-- JOBSHEET 11
+<h2>- JOBSHEET 10 SHELL AND QUICK SORT</h2>
+
+  
+<h2>- JOBSHEET 11 LINEAR AND BINARY SEARCH</h2>
+
+  
+<h2>- JOBSHEET 12 TREE</h2>
+
+  
+<h2>- JOBSHEET 13 GRAPH</h2>
   
 
 <br/>  
