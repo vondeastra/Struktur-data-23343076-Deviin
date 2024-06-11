@@ -1,8 +1,10 @@
 # Struktur-data-23343076-Deviin
 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
-</div>  
+<div align="center">
+<img src="![image](https://github.com/vondeastra/Struktur-data-23343076-Deviin/assets/144184599/48f42191-a3b9-4137-9066-169effcda87d)
+" align="center" height="" width="400" />
+</div> 
 
 
 ### <div align="center">I am Muhammad Devin Rahadi, a student majoring in Informatics at Padang State University</div>  
