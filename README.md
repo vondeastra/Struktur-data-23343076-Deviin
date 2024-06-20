@@ -90,8 +90,11 @@
 
 ### Data Structure Learning 
 <h2>- JOBSHEET 1 PENGENALAN STRUKTUR DATA</h2>
-<p>Pemograman dalam struktur data ada beberapa macam. Salah satunya adalah pemograman C. Dalam pemograman ini biasanya menggunakan variable Array, Struktur dan Linked List. Dalam istilah ilmu komputer, sebuah struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien.Sedangkan Data adalah representasi dari fakta dunia nyata. 
-Ada empat istilah data, yaitu : 1. Tipe data adalah jenis atau macam data di dalam suatu variable dalam bahasa pemrograman. Jenis jenis tipe data disimpan dalam bentuk kode angka baik berupa kode ASCII dan kode laiinya. 2. Objek data mengacu kumpulan elemen,  penyimpanan data yang unik ke dalam satu jenis objek yang utuh 3. Struktur data biasa dipakai untuk mengelompokan beberapa  informasi yang terkait menjadi sebuah kesatuan. </p>
+<p>Pemograman dalam struktur data ada beberapa macam. Salah satunya adalah pemograman C. Dalam pemograman ini biasanya menggunakan variable Array, Struktur dan Linked List. Dalam istilah ilmu komputer, sebuah struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien.Sedangkan Data adalah representasi dari fakta dunia nyata.</p> 
+<p>Ada empat istilah data, yaitu : 
+  <br>1. Tipe data adalah jenis atau macam data di dalam suatu variable dalam bahasa pemrograman. Jenis jenis tipe data disimpan dalam bentuk kode angka baik berupa kode ASCII dan kode laiinya. 
+  <br>2. Objek data mengacu kumpulan elemen,  penyimpanan data yang unik ke dalam satu jenis objek yang utuh 
+  <br>3. Struktur data biasa dipakai untuk mengelompokan beberapa  informasi yang terkait menjadi sebuah kesatuan. </p>
   
 <h2>- JOBSHEET 2 ARRAY, POINTER STRUKTUR</h2>
 
