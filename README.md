@@ -88,7 +88,12 @@
 
 ## Recent Blog Posts  
 
-
+<table border="2" bgcolor="#FFFFFF" align="center">
+            <th colspan="2">BIODATA</th>
+            <tr>
+              <td>Nama</td>
+              <td>Muhammad Devin Rahadi</td>
+            </tr>
 ### Data Structure Learning 
 <h2>- JOBSHEET 1 PENGENALAN STRUKTUR DATA</h2>
 
