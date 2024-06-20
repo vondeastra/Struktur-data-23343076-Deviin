@@ -94,7 +94,18 @@
 <p>Ada empat istilah data, yaitu : 
   <br>1. Tipe data adalah jenis atau macam data di dalam suatu variable dalam bahasa pemrograman. Jenis jenis tipe data disimpan dalam bentuk kode angka baik berupa kode ASCII dan kode laiinya. 
   <br>2. Objek data mengacu kumpulan elemen,  penyimpanan data yang unik ke dalam satu jenis objek yang utuh 
-  <br>3. Struktur data biasa dipakai untuk mengelompokan beberapa  informasi yang terkait menjadi sebuah kesatuan. </p>
+  <br>3. Struktur data biasa dipakai untuk mengelompokan beberapa  informasi yang terkait menjadi sebuah kesatuan.
+  <br> <br>
+  Secara garis besar type data dapat dikategorikan menjadi : 
+  <br>Type data sederhana. 
+  1. Type data sederhana tunggal, misalnya Integer, real, boolean dan karakter. 
+  2. Type data sederhana majemuk, misalnyaString (kumpulan data char) 
+  Struktur Data, meliputi: 
+  a. Struktur data sederhana, misalnya array dan record. 
+  b. Struktur data majemuk, yang terdiri dari: 
+      a)      Linier : Stack, Queue, sertaList dan Multilist 
+      b)      Non Linier : Pohon Biner dan Graph 
+</p>
   
 <h2>- JOBSHEET 2 ARRAY, POINTER STRUKTUR</h2>
 
